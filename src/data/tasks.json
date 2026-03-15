@@ -1,0 +1,30 @@
+[
+  {
+    "id": "seed-3",
+    "title": "Run nginx using a Docker image from Docker Hub",
+    "completed": false,
+    "priority": "high",
+    "createdAt": "2024-01-01T09:10:00.000Z"
+  },
+  {
+    "id": "seed-4",
+    "title": "Write a Dockerfile for the React frontend",
+    "completed": false,
+    "priority": "medium",
+    "createdAt": "2024-01-01T09:15:00.000Z"
+  },
+  {
+    "id": "seed-5",
+    "title": "Write a Dockerfile for this Express backend",
+    "completed": false,
+    "priority": "medium",
+    "createdAt": "2024-01-01T09:20:00.000Z"
+  },
+  {
+    "id": "seed-6",
+    "title": "Create a Docker Hub account and push both images",
+    "completed": false,
+    "priority": "low",
+    "createdAt": "2024-01-01T09:25:00.000Z"
+  }
+]

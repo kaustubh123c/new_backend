@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+README.md
+# Note: .env is intentionally NOT ignored here
+# so Docker Compose can pass it into the container via env_file
